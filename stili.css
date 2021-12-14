@@ -1,0 +1,40 @@
+body {
+    font-family: 'Mukta', sans-serif;
+}
+
+.blu {
+    background-color:#4971FF;
+    color:  #ffffff;
+}
+
+.blu2 {
+    background-color:#4971FF;
+}
+
+#fascia-superiore{
+    height: 36px;
+    padding: 5px;
+    padding-right: 100px;
+}
+
+#fascia-superiore a{
+    color: #fff;
+    text-decoration: none;
+}
+
+#fascia-superiore a:hover {
+    color: #eccc68;
+}
+
+
+#fascia-carousel {
+    height: 367px;
+}
+
+.elemento-carousel {
+    height: 300px;
+}
+
+#fascia-card {
+    min-height: 367px;
+}
