@@ -2,14 +2,11 @@ body {
     font-family: 'Mukta', sans-serif;
 }
 
-.blu {
-    background-color:#4971FF;
+.gray {
+    background-color:#4d4e52;
     color:  #ffffff;
 }
 
-.blu2 {
-    background-color:#4971FF;
-}
 
 #fascia-superiore{
     height: 36px;
